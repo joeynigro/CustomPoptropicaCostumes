@@ -1,0 +1,8 @@
+<part>
+	<id>fantasy_princess</id>
+	<type>pants</type>
+	<hide>
+		<part>leg1</part>
+		<part>leg2</part>
+	</hide>
+</part>
